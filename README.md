@@ -1,2 +1,2 @@
 # CursoPracticoJavascriptDesdeCero
-Proyecto echo en el curso practico de JavaScript de Platzi
+Proyecto hecho en el curso practico de JavaScript de Platzi
